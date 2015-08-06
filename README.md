@@ -6,6 +6,8 @@ Handpoint getting started sample version 1.0
 
 - There are some additional functions in this project to better explain how the Handpoint .NET SDK works.
 
+- This project contains the Handpoint .NET SDK version 1.1.8
+
 - If you have a Handpoint integration card reader then you can use this sample project to connect to your device. **Just make sure you update the sharedSecret string in the initApi() function of MyClass.cs.**
 
 - This sample project assumes that the simulator is being used which uses the development shared secret: 0102030405060708091011121314151617181920212223242526272829303132. 
